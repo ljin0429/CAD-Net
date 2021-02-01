@@ -3,7 +3,15 @@ Official Implementation of AAAI 2021 paper [Class-Attentive Diffusion Network fo
 
 The link above provides the full version of the paper, including appendices.
 
-This repository provides source codes for experiments on citation networks (CiteSeer, Cora, and PubMed).
+This repository provides both source codes and datasets for experiments on citation networks (CiteSeer, Cora, and PubMed).
+
+To reproduce the results reported on the paper, just run the demo files as,
+
+'''
+python demo_citeseer.py
+python demo_cora.py
+python demo_pubmed.py
+'''
 
 # Environments
 * Python 3.6
