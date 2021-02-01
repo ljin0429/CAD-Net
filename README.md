@@ -7,11 +7,15 @@ This repository provides both source codes and datasets for experiments on citat
 
 To reproduce the results reported on the paper, just run the demo files as,
 
-'''
+```
 python demo_citeseer.py
+```
+```
 python demo_cora.py
+```
+```
 python demo_pubmed.py
-'''
+```
 
 # Environments
 * Python 3.6
